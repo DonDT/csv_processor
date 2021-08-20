@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { currencyValidator } from "./validator";
-//const uuidV4 = require("uuid").v1;
+//const uuidV4 = require("uuid").v1
 
 interface IProps {
   csvFiles: Object;
