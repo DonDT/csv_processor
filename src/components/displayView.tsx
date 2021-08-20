@@ -14,6 +14,7 @@ interface IState {
 }
 
 class DisplayView extends Component<IProps, IState> {
+  //
   constructor(props: any) {
     super(props);
     this.state = {
